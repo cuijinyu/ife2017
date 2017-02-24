@@ -1,0 +1,36 @@
+.wrap
+{
+	width:800px;
+	height: 600px;
+	position: relative;
+	border:1px solid;
+}
+.center
+{
+	margin:auto;
+	position: absolute;
+	left: 0; top:0; bottom: 0;right: 0;
+	background-color: #ccc;
+	height: 200px;
+	width: 400px;
+}
+.coner
+{
+	width: 50px;
+	height: 50px;
+	border-radius: 0 0 100% 0;
+	background-color: #fc0;
+}
+.bottom
+{
+	position: absolute;
+	top: 150px;
+    left: 350px;
+}
+.coner2
+{
+	width: 50px;
+	height: 50px;
+	border-radius: 100% 0 0 0;
+	background-color: #fc0;
+}
