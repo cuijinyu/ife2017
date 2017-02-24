@@ -1,0 +1,49 @@
+*
+{
+	border:1px solid #999;
+	padding:20px;
+}
+p
+{
+	border:none;
+}
+.warp
+{
+	background-color: #eee;
+	position: relative;
+    height: 600px;
+}
+.name
+{
+	width: 200px;
+	background-color: white;
+    margin: 30px;
+    position: absolute;
+}
+.item
+{
+	height:80px;
+	width: 80px;
+	margin-top: 20px;
+}
+.item1
+{
+	height:80px;
+	width: 80px;
+	margin:20px;
+	float: left;
+}
+.contain
+{
+	background-color: white;
+	position: absolute;
+	margin: 0 200px 0 300px;
+}
+.logo
+{
+	background-color: white;
+	width: 120px;
+    display: block;
+    position: absolute;
+    right: 30px;
+}
